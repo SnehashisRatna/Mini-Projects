@@ -21,3 +21,14 @@ button.btn{
     background-color: rgb(20, 95, 235);
     color: rgb(247, 245, 233);
 }
+
+.name{
+    margin: 12px;
+    color: coral;
+}
+
+.about{
+    margin: 20px;
+    padding: 12px;
+    color: black;
+}
