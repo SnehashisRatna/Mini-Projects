@@ -23,11 +23,13 @@ button.btn{
 }
 
 .name{
+    display: none;
     margin: 12px;
     color: coral;
 }
 
 .about{
+    display: none;
     margin: 20px;
     padding: 12px;
     color: black;
