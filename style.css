@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button.btn{
+    padding: 25px;
+    font-size: 25px;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+    border: 0px;
+    border-radius: 50px;
+    width: 20vw;
+    background-color: rgb(20, 95, 235);
+    color: rgb(247, 245, 233);
+}
