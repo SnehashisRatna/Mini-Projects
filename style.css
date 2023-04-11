@@ -25,12 +25,14 @@ button.btn{
 .name{
     display: inline-block;
     margin: 12px;
-    color: coral;
+    color: whitesmoke;
     border: 1px;
     border-radius: 25px;
     background-color: aquamarine;
     font-weight: 400;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 30px;
+
 }
 
 .about{
@@ -38,4 +40,11 @@ button.btn{
     margin: 20px;
     padding: 12px;
     color: black;
+    color: whitesmoke;
+    border: 1px;
+    border-radius: 25px;
+    background-color: aquamarine;
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 30px;
 }
