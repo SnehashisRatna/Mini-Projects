@@ -22,7 +22,7 @@ button.btn{
     color: rgb(247, 245, 233);
 }
 
-button.btn :hover {
+button:hover {
     background-color: aliceblue;
     color: blue;
 }
@@ -54,7 +54,7 @@ button.btn :hover {
 }
 
 
-.name.about:hover {
+h1:hover,h3:hover {
      background-color: cadetblue;
      color: black;
 }
