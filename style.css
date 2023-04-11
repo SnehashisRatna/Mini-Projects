@@ -22,6 +22,11 @@ button.btn{
     color: rgb(247, 245, 233);
 }
 
+button.btn :hover {
+    background-color: aliceblue;
+    color: blue;
+}
+
 .name{
     display: inline-block;
     margin: 12px;
@@ -46,4 +51,10 @@ button.btn{
     font-weight: 400;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding: 30px;
+}
+
+
+.name.about:hover {
+     background-color: cadetblue;
+     color: black;
 }
